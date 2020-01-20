@@ -34,5 +34,6 @@ $ path-convert [path] [options]
 
 ```bash
 $ path-convert -h
-$ $ path-convert --help
+# or
+$ path-convert --help
 ```
