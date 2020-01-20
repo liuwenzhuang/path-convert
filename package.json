@@ -1,0 +1,31 @@
+{
+  "name": "path-convert",
+  "version": "0.0.1",
+  "description": "Convert Windows style path to Unix like and vice versa.",
+  "main": "lib/index.js",
+  "bin": {
+    "path-convert": "bin/path-convert"
+  },
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/liuwenzhuang/path-convert.git"
+  },
+  "keywords": [
+    "path",
+    "node",
+    "unix",
+    "windows"
+  ],
+  "author": "liu1114589929@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/liuwenzhuang/path-convert/issues"
+  },
+  "homepage": "https://github.com/liuwenzhuang/path-convert#readme",
+  "dependencies": {
+    "minimist": "^1.2.0"
+  }
+}
